@@ -4,7 +4,7 @@ Love Calculator calucates the love comcatibility between two names.
 See [LOVE CALCULATOR](https://rebeccazhou666-dwd-hw4.glitch.me/) Here.
 
 Also video demo is here.
-
+![demo](pictures/demo.mp4)
 
 # About
 Love Calculator uses "Love calculator" API to get to know the love compatibility between any first names.
@@ -49,11 +49,11 @@ I used```vh vw``` , ```@media``` and also ```normalize.css``` just like my last 
 <h2> API</h2>
 
 When I used API, at first I forgot to sign up into the rapid API website so that the key I got was invalid. After seeing the status 401 code.I realized and signed in and got the right one.<br />
-Then I met the problem of CORS. I searched online and solved problem by adding ```'Access-Control-Allow-Origin': '*'``` in ```header```. I annotated the Javascript ```fetch```code in ```main.js``` because I mainly used ```JQuery```to control css (it's neat).
+Then I met the problem of CORS. I searched online and solved problem by adding ```'Access-Control-Allow-Origin': '*'``` in ```header```. I annotated the Javascript ```fetch```code in ```main.js``` because I mainly used ```JQuery```to control css (it's neat).![CORS](pictures/CORS.png)
 
 <h2> Supportive Interaction</h2>
 
-There's an animation of result. I used ```setTimeOut``` to make loop function delay so that I can create a number increasing effect.<br />
+There's an animation of result. I used ```setTimeOut``` to make loop function delay so that I can create a number increasing effect.![loop](pictures/loop.png)<br />
 
 <h2> Deployment</h2>
 
