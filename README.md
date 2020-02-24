@@ -4,7 +4,7 @@ Love Calculator calucates the love comcatibility between two names.
 See [LOVE CALCULATOR](https://rebeccazhou666-dwd-hw4.glitch.me/) Here.
 
 Also video demo is here.
-![demo](pictures/demo.mp4)
+[![Watch the video](pictures/design2.png)](https://youtu.be/pN4CCRj_4L8)
 
 # About
 Love Calculator uses "Love calculator" API to get to know the love compatibility between any first names.
